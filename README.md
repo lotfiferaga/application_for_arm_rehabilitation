@@ -13,6 +13,9 @@ Our application will be dedicated to patients who are undergoing rehabilitation 
 arms. It will also be recommended for the rehabilitation of patients diagnosed with
 cerebral paralysis or for post-avc rehabilitation.
 
+## Use case
+We propose an example of use to test the proper functioning of the developed application. Thus, we will have a user who represents the patient. Then, the user must wear his VR headset to ensure immersion in the virtual world and to discover the 3D environment before him. He must also take in hand the controllers to perform tasks.
+
 # Technologies 
 This project was built with : 
 
