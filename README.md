@@ -16,6 +16,14 @@ cerebral paralysis or for post-avc rehabilitation.
 ## Use case
 We propose an example of use to test the proper functioning of the developed application. Thus, we will have a user who represents the patient. Then, the user must wear his VR headset to ensure immersion in the virtual world and to discover the 3D environment before him. He must also take in hand the controllers to perform tasks.
 
+The application suggests tasks to perform with his arm during rehabilitation to train. He will then see in front of him some doors to open in a gym. So, he must follow the following steps: 
+
+- Use the arm in question.
+- Use the joysticks to touch the door handles.
+- Open the door using the virtual handle.
+- Vibrations are activated via the joysticks indicating the opening of a door.
+- Repeat this process as many times as the number of doors.
+
 # Technologies 
 This project was built with : 
 
