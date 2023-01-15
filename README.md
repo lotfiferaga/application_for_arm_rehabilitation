@@ -26,8 +26,21 @@ The application suggests tasks to perform with his arm during rehabilitation to 
 
 # Technologies 
 This project was built with : 
+- Unity3D 
+- C#
+- VsCode 
 
-![My animated logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png)
+# Implemented Interaction techniques 
+There's four 3D interactions possible to implement in a virtual environnement : 
+
+## Navigation 
+
+## Selection 
+
+## Manipulation 
+
+## Application control
+
 
 
 
