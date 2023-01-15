@@ -1,3 +1,17 @@
+### Table of content 
+[About the project](https://github.com/lotfiferaga/application_for_arm_rehabilitation#about-the-project)
+
+[Arm rehabilitation application](https://github.com/lotfiferaga/application_for_arm_rehabilitation#arm-rehabilitation-application)
+
+[Potential User](https://github.com/lotfiferaga/application_for_arm_rehabilitation#potential-user)
+
+[Use case](https://github.com/lotfiferaga/application_for_arm_rehabilitation#use-case)
+
+[Technologies](https://github.com/lotfiferaga/application_for_arm_rehabilitation#technologies)
+
+[Implemented Interaction techniques](https://github.com/lotfiferaga/application_for_arm_rehabilitation#implemented-interaction-techniques)
+
+
 # About the project
 The theme of this project answers the question : 
 In order to improve the sensation of touch in an application of
