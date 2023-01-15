@@ -37,7 +37,7 @@ There's four 3D interactions possible to implement in a virtual environnement :
 
 ## Selection 
 We implemented the Ray-Casting selection technique : 
-![Screenshot](screens/image (4).jpg)
+![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(4).jpg)
 
 ## Manipulation 
 
