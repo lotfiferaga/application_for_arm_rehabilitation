@@ -3,7 +3,7 @@
 
 [Arm rehabilitation application](https://github.com/lotfiferaga/application_for_arm_rehabilitation#arm-rehabilitation-application)
 
-[Potential User](https://github.com/lotfiferaga/application_for_arm_rehabilitation#potential-user)
+[Potential Users](https://github.com/lotfiferaga/application_for_arm_rehabilitation#potential-user)
 
 [Use case](https://github.com/lotfiferaga/application_for_arm_rehabilitation#use-case)
 
@@ -22,7 +22,7 @@ feedbacks ?
 This is an interactive 3D application in which a patient currently undergoing rehabilitation of one of his arms is asked to perform a task of opening a door with the help of his arm. This task consists in successively operating different models of virtual door handles. Each door handle has a different shape and size than the others.
 The grasping of the handle with the virtual hand is indicated by vibrations at the handle. The vibrations increase according to the "hardness" of the handle. The size of the handle affects the angle of rotation of the user's wrist.
 
-## Potential User
+## Potential Users
 Our application will be dedicated to patients who are undergoing rehabilitation of one of their
 arms. It will also be recommended for the rehabilitation of patients diagnosed with
 cerebral paralysis or for post-avc rehabilitation.
