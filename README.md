@@ -34,15 +34,19 @@ This project was built with :
 There's four 3D interactions possible to implement in a virtual environnement : 
 
 ## Navigation 
-
+We implemented the simplest navigation technique in a Virtual environnement which is navigating by traveling (when the point of vue changes the person is moving): 
+![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(3).jpg)
 ## Selection 
 We implemented the Ray-Casting selection technique : 
 ![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(4).jpg)
 
 ## Manipulation 
+The manipulation technique implemented is also Ray-Casting (because we cannot manipulate an object without selecting it) and Simple VH (Virtual Hand) combined :
+![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(2).jpg)
 
 ## Application control
-
+We have a scoring system in the screens that appear in front of the patient : 
+![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(1).jpg)
 
 
 
