@@ -36,6 +36,8 @@ There's four 3D interactions possible to implement in a virtual environnement :
 ## Navigation 
 
 ## Selection 
+We implemented the Ray-Casting selection technique : 
+![Screenshot](./screens/image (4).jpg)
 
 ## Manipulation 
 
