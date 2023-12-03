@@ -58,6 +58,9 @@ We implemented the Ray-Casting selection technique :
 The manipulation technique implemented is also Ray-Casting (because we cannot manipulate an object without selecting it) and Simple VH (Virtual Hand) combined :
 ![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(2).jpg)
 
+## NOTE 
+This was an experimental school project to study the advantages virtual reality applications can bring to the medical field and more specifically in the therapy field.
+
 ## Application control
 We have a scoring system in the screens that appear in front of the patient : 
 ![Screenshot](https://github.com/lotfiferaga/application_for_arm_rehabilitation/blob/main/screens/image%20(3).jpg)
